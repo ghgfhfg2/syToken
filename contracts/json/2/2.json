@@ -1,0 +1,51 @@
+{
+  "name": "soonizzly #6",
+  "description": "soonizzly is a collectible NFT project ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZSYcrJkLNAPqnFebBRNh5DCzfvCsiQXENg6SQiHLt6Hs/2/2.png",
+  "dna": "fa7ce45a760fbb038052a2db9102cccd4ad23606",
+  "edition": 6,
+  "date": 1649082686125,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "body",
+      "value": "Basics"
+    },
+    {
+      "trait_type": "face",
+      "value": "none"
+    },
+    {
+      "trait_type": "hat",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Tease"
+    },
+    {
+      "trait_type": "eye",
+      "value": "Police"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Miner"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "Doctor"
+    },
+    {
+      "trait_type": "right_hand",
+      "value": "Tumbler"
+    },
+    {
+      "trait_type": "left_hand",
+      "value": "Singer"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
